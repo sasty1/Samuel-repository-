@@ -1,0 +1,2 @@
+Linux is fun
+Git is a powerful version control system
